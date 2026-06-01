@@ -1,8 +1,9 @@
 #Loops
 #for loop
 
-'''for i in range (10):
+for i in range (10):
     print("apple")
+
 o/p:apple
 apple
 apple
@@ -12,10 +13,12 @@ apple
 apple
 apple
 apple
-apple'''
+apple
 
-'''for i in range (10,15):
+for i in range (10,15):
     print("apple")
+
+
 o/p:apple
 apple
 apple
@@ -24,6 +27,7 @@ apple
 
 for i in range(10,20,2):
     print("apple")
+    
 o/p:apple
 apple
 apple
@@ -74,8 +78,13 @@ for i in range (1,10,4):
     print(i)
 o/p:1
 5
-9'''
+9
 
 a="mango"
 for i in  a:
     print(i)
+o/p:m
+a
+n
+g
+o
